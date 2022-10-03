@@ -4,7 +4,8 @@ public class test {
     public static int lengthOne = exampleVariableOne.length;
     // returns the length of the columns in the array
     public static int lengthTwo = exampleVariableOne[0].length;
-  
+    
+    //Demo run
     public static void main(String[] args) {
       System.out.println(lengthOne);
       System.out.println(lengthTwo);
